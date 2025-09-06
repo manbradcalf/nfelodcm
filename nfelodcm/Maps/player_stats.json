@@ -2,7 +2,7 @@
   "name": "player_stats",
   "description": "nflfastR player stats",
   "last_local_update": "2025-05-08T22:20:24.362121",
-  "download_url": "https://github.com/nflverse/nflverse-data/releases/download/player_stats/player_stats.csv.gz",
+  "download_url": "https://github.com/nflverse/nflverse-data/releases/download/stats_player/stats_player.csv.gz",
   "compression": "gzip",
   "engine": "c",
   "freshness": {
@@ -16,9 +16,7 @@
     "type": null,
     "start": null
   },
-  "assignments": [
-    "fastr_team_id_repl"
-  ],
+  "assignments": ["fastr_team_id_repl"],
   "map": {
     "player_id": "object",
     "player_name": "object",
@@ -75,3 +73,4 @@
     "fantasy_points_ppr": "float32"
   }
 }
+
