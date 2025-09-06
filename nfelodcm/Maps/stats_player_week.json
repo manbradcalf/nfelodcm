@@ -12,6 +12,7 @@
     "sla_seconds": 900,
     "last_freshness_check": "2025-05-08T22:20:21.420258+00:00"
   },
+  "assignments": [],
   "iter": {
     "type": null,
     "start": null
