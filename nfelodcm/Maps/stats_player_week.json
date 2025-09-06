@@ -32,7 +32,6 @@
     "attempts": "int32",
     "passing_yards": "int32",
     "passing_tds": "int32",
-    "sacks": "int32",
     "sack_fumbles": "int32",
     "sack_fumbles_lost": "int32",
     "passing_air_yards": "int32",
