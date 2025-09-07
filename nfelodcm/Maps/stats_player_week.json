@@ -27,6 +27,7 @@
     "season": "int32",
     "week": "int32",
     "season_type": "object",
+    "team": "object",
     "opponent_team": "object",
     "completions": "int32",
     "attempts": "int32",
